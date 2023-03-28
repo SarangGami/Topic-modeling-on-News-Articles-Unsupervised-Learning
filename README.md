@@ -1,4 +1,4 @@
-<h1 align="center">Topic-modelling-on-News-Articles</h1>
+<h1 align="center">Topic-modeling-on-News-Articles</h1>
 
 <h4 align="center"> Colab Link :- </h4>
 

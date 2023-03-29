@@ -1,6 +1,6 @@
 <h1 align="center">Topic-modeling-on-News-Articles</h1>
 
-<h4 align="center"> Colab Link :- </h4>
+<h4 align="center"> Colab Link :- https://colab.research.google.com/drive/1IgQ1qgBEAj7zNepZjjTGQ6Z3rQihTTzI?usp=share_link </h4>
 
 ![topic_model](https://user-images.githubusercontent.com/121340232/227875293-defdba92-0c30-44f9-a141-7e6cc5fa9555.png)
 
@@ -130,8 +130,13 @@
 
 ▪ Trend analysis: Topic modeling could be used to identify emerging trends and topics that are likely to become popular in the near future. This could help media companies and advertisers stay ahead of the curve and produce content that is relevant to their audience.
 
+<BR/>
 
+### **click [here](https://colab.research.google.com/drive/1IgQ1qgBEAj7zNepZjjTGQ6Z3rQihTTzI?usp=share_link) To access the solution of the Capstone Project Topic-modeling-on-News-Articles Unsupervised Learning, which includes the usage of 3 different algorithms of topic modelling with detailed explanations and conclusions.**
 
+<BR/>
+
+Apologies for the inconvenience caused. Due to some technical issues with the .ipynb file, I have attached a Google Drive link of .ipynb file and also atteched pdf file of google colab for you to view the file. Thank you.
 
 
 

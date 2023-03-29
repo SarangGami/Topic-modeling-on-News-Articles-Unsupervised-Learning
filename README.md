@@ -136,7 +136,7 @@
 
 <BR/>
 
-Apologies for the inconvenience caused. Due to some technical issues with the .ipynb file, I have attached a Google Drive link of .ipynb file and also atteched pdf file of google colab for you to view the file. Thank you.
+Apologies for the inconvenience caused. Due to some technical issues with the github and .ipynb file, I have attached a Google Drive link of .ipynb file and also atteched pdf file of google colab for you to view the file. Thank you.
 
 
 

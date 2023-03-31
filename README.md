@@ -1,7 +1,5 @@
 <h1 align="center">Topic-modeling-on-News-Articles</h1>
 
-<h4 align="center"> Colab Link :- https://colab.research.google.com/drive/1IgQ1qgBEAj7zNepZjjTGQ6Z3rQihTTzI?usp=share_link </h4>
-
 ![topic_model](https://user-images.githubusercontent.com/121340232/227875293-defdba92-0c30-44f9-a141-7e6cc5fa9555.png)
 
 
